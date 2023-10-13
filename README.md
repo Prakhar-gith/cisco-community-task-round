@@ -1,4 +1,6 @@
 # cisco-community-task-round
+you can download or clone this repository,
+and give npm start command in command panel to run this website on localhost
 
 Wesite Screen shots
 ![image](https://github.com/Prakhar-gith/cisco-community-task-round/assets/115631222/0bbf6e4d-b9e6-4a45-bb7c-b8e0b01d455b)
